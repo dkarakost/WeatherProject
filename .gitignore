@@ -8,9 +8,11 @@ venv/
 # Ignore environment variables file
 .env
 
-# Ignore json files
-weatheranalysisproject-288b95e658cc.json
-weatheranalysisproject-f4edd24c2436.json
+# Ignore settings.py with sensitive information
+settings.py
 
-# ingore .cloudignore file
+# Ignore Google service account JSON key files
+weatheranalysisproject-*.json
+
+# Ignore .gcloudignore file
 .gcloudignore
