@@ -150,8 +150,8 @@ def upload_json_to_gcs(json_data: dict, bucket_name: str, folder_path: str) -> N
       folder_path (str): The folder path within the bucket to store the data (optional).
   """
   # Replace with the path to your downloaded JSON key file
-  #if settings.is_local_environment:
-    #os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\pasat\OneDrive\Υπολογιστής\machine_learning\Weather_app\weatheranalysisproject-f4edd24c2436.json"  
+  if settings.is_local_environment:
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Your path to the json file"  
 
   client = storage.Client()
 
@@ -190,8 +190,8 @@ def upload_df_to_bigquery(dataframe: pd.DataFrame, project_id: str, dataset_id: 
         None
     """
     # Replace with the path to your downloaded JSON key file
-    #if settings.is_local_environment:
-      #os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\pasat\OneDrive\Υπολογιστής\machine_learning\Weather_app\weatheranalysisproject-288b95e658cc.json"
+    if settings.is_local_environment:
+      os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Your path to the json file"
 
     # Construct a BigQuery client object.
     client = bigquery.Client()
