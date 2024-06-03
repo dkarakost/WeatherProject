@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "weatheranalysisproject",
+  "private_key_id": "f4edd24c2436a64eae10d1695eb6e85a89df2a2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCU/wxzowP+ZQbb\nQw76KjxyLZqpEBnqJwEUzRsDyc6cvmPFZKUBtrWTn8Em0Ne+Vc5oZIH99JELbuMB\nTW6bp6o4FiMGmBK5pF9bYQCExoy5DDoimvYyFbzMLWGhVTrMqzBiptIKMDRezhy8\nsYVO/uN8EGiWqHB26ayjEQfhOL4nkt9XzNzfn8ETWayL22Qq9ULsjcThn2dkz2JH\n3L5Q/BYKt/ejJzBqse+4eBADHssuoLgNbsfP4R4UX0Z4Q9Tmv8BZN/oJeLs1v/w1\nTdJeiCuP6qt4KRmMjfJFYPKfU/RsfO6nWWJ4Y+z3kVPEF+2q8wsUC1Y+Pw2rpuF/\n4/0sQW9NAgMBAAECggEAJ8euseMIqm+btIfDZGxJZiyh2diIKrmOMtkOCOVlCflV\nFvsniP0YnpjtD2l76H/tU3beNAkLfrN03UCosttBeacDY/vPKAxoPzP3WPvPz4oh\nrWKVL8sY9KR7KAFi6QkdqoEinADBwrwh9Qkqb+xinRmeavb+y+jYpFLkOTAWqObH\n+wO2GsvMJyMI8JnnFKcB7IwcZERTuI6DK03X79wFUDe0IybwaBuidNGThjfhoEgk\ny01jMbMlSl4CuyLNlu7phcu8Bk/GgLQl27ZThDG4F6BNWUnw3rOJL2Gadh6Ti8GR\nI+xaz6M/PqglGIbWYqY0sWkqvJzJTEqP+UIAvN6TawKBgQDE7ViXRvD2jAlg47YC\n+JCa3FI+3kYC5Ib9fpmfuDRlUTCZXAkyOUYPdH+h7AwsFujm6BMxfu0fdZ7g3a0E\nN6L7qL9kCYrWzHoz3jSpF57e642k+mONH/icMVN8S+IPnSCQ+WjtYRcq/Af+hCTY\nNiAtKnGAqO+XIgU0UL2pyTVurwKBgQDBsPEg0Jhkb9BmhidrAYLHqFM2H8fasHVI\n2gOckjYkWOwaPXH2+r0awnO3tRIVGAdVYO5gbEN5z2MD581L5IdlsH09uZaFSHBu\nF9Fm3U3DkdPvuYMBhqCWwR8syBv3KqeMDwzlXegUHPn4hKYXW8gwU0e9UG+setAP\nI5tBCNvgwwKBgQC2Jj+6daDuu6r1FstFRjsjMsVUZ25kwJLoKNDaPp0gVg/Y2pua\n/AUEyKJB2L+NjIdTBbizII8eeUJDBmhBrWCw3G5jjrwAYNRr443cFgAae9Dhl8S7\nRaZEew+YuevYu2LjFf9rClJOrR6L2hjmcHIktMyV0C0FIy+jK0ezo2wr+wKBgHoK\n0YRJqxvt0DQpZ4DnDM5c40GBON40vVHP/OKUxgSU+v91o+9pAepwh5VDREeCQmyr\njMe4r7N61vrI/fRJ5H5QfDl+TLdic2ULIOhdnPgTVKUCEOfPOjSDLu96jxRoDfYU\nLZ4AU5EIyQCsJDMno7W/Y76HhjX5lEtVtid+O30dAoGAMRTLEQ3yB/ELrwiPiRWA\nF6j6ND5+tlpilDP81LVvU3kRvs681IhZm2Pyi+cMeDbanZ/wfDGJMcMSZro4UsyI\n76isKvBbsu3rqFuYy7Os/tF/mTvPDsuSB2fPwPGmW+ArZPxe7LvZmNWP2MDRTiM9\nkoNSzG+0NHrlXolLXGYp8zs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstorage-read-write@weatheranalysisproject.iam.gserviceaccount.com",
+  "client_id": "117286616237952165966",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage-read-write%40weatheranalysisproject.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
