@@ -1,0 +1,16 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables file
+.env
+
+# Ignore json files
+weatheranalysisproject-288b95e658cc.json
+weatheranalysisproject-f4edd24c2436.json
+
+# ingore .cloudignore file
+.gcloudignore
